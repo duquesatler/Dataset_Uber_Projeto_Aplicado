@@ -61,11 +61,10 @@ Desenvolve insights e hipóteses com base nos padrões identificados.
 2. Equipe de Visualização
 Cria gráficos, painéis interativos e outras representações visuais.
 Ajuda a traduzir os insights em uma apresentação mais intuitiva.
-
-
-Link do vídeo de apresentação do projeto final: https://www.youtube.com/watch?v=8HvAW4NWZoI&ab_channel=PedroSatler
 3. Equipe de Documentação/Edição
 Redige o relatório do projeto, incluindo explicação dos métodos e análises.
 Organiza as conclusões e garante que o material seja claro e coeso.
 Responsável pela edição do vídeo final de apresentação .
+
+Link do vídeo de apresentação do projeto final: https://www.youtube.com/watch?v=8HvAW4NWZoI&ab_channel=PedroSatler
 
