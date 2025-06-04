@@ -66,5 +66,5 @@ Redige o relatório do projeto, incluindo explicação dos métodos e análises.
 Organiza as conclusões e garante que o material seja claro e coeso.
 Responsável pela edição do vídeo final de apresentação .
 
-Link do vídeo de apresentação do projeto final: https://www.youtube.com/watch?v=8HvAW4NWZoI&ab_channel=PedroSatler
-
+Link do vídeo de apresentação do projeto final: https://youtu.be/R89B2JGOlR4
+Link do Relatório Final: https://docs.google.com/document/d/19HsE_85deS6w2dcbX6Owb_hjI5KUVncCWZ9Qp1SP70g/edit?usp=sharing
